@@ -31,4 +31,4 @@ The dataset is available on [Dataset](https://rb.gy/6l7bl ).
 
 # Dashboard Preview
 
-Here's The Preview of Dashboard: [DashboardPowerBI](https://rb.gy/6l7bl ).
+Here's The Preview of Dashboard: [DashboardPowerBI](https://github.com/amaln06/Superstore-Sales-Performance-Profitability-Analysis-Dashboard/blob/main/Dashboard.jpg).
